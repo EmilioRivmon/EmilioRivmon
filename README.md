@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmilioRivmon
-- 👀 I’m interested in hacking .
+- 👀 I’m interested in to learn hacking and develop applications.
 - 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on projects with anyone.
 - 📫 How to reach me @EmilioRivmon in all the social networks.
